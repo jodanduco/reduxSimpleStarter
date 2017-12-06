@@ -6,7 +6,6 @@ import SearchBar from './components/SearchBar';
 
 const API_YOUTUBE_KEY = 'AIzaSyDsFiWaI0OujvF7D4WlKYsRO9Oh_f70Eho';
 //Create a new component that generate HTML
-
 const App =  () => {
   return (
     <div>

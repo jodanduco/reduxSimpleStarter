@@ -1,0 +1,16 @@
+npm install --save youtube-api-search
+
+------
+//import React from 'react';
+import React, {Component} from 'react';
+
+// {Component} = const Component = React.Component 
+-----
+State object
+Only class Components has state object
+We define state object into constructror.
+
+To change state value qwe use this.setState method.
+and you can only use this into render method
+
+------
