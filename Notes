@@ -10,7 +10,7 @@ State object
 Only class Components has state object
 We define state object into constructror.
 
-To change state value qwe use this.setState method.
+To change state value we use this.setState() method.
 and you can only use this into render method
 
 ------
